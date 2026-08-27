@@ -1,0 +1,37 @@
+# Knowledge Files
+
+## Files uploaded to the private ChatGPT Project
+
+1. **GreenThreads Case Brief**
+   - Establishes the Denver Store #13 launch, 90-day clock, store staffing target, budget constraints, and company context.
+
+2. **GT_HR_Denver_Applicants dataset**
+   - Supports applicant counts, role-level staffing gaps, offer outcomes, decline reasons, offered rates, market rates, and application timing.
+
+3. **Sales Associate Offer Letter**
+   - Confirms the $17.50 hourly rate, â€œup to 28 hours weeklyâ€ ceiling, five-business-day response window, and September 28 proposed start date.
+
+4. **GreenThreads Employee Handbook / HR Source Documents**
+   - Confirms the at-or-above-local-market compensation policy and the warning that long hiring delays increase candidate-loss risk.
+
+5. **Sales Associate Job Posting**
+   - Confirms the advertised August target start and launch-training message.
+
+6. **HW #1 - HR Functional Brief**
+   - Defines the People Operations function, AI opportunities, HR Finance Liaison role, and original assistant scope.
+
+7. **HW #2 - GreenThreads Denver HR Synthesis Brief**
+   - Connects the offer letter, handbook, job posting, and applicant data.
+
+8. **HW #3 - Corrected Denver Sales Associate Staffing Analysis**
+   - Supplies the verified staffing funnel, six-vacancy cost, eight-position policy scenario, budget-period correction, and decision rights.
+
+## Public-repository privacy decision
+
+The raw applicant dataset is not included in the public GitHub repository because it contains sensitive applicant-level information. The public repository uses aggregated results and de-identified summaries instead.
+
+The private ChatGPT Project may use the applicant dataset only within the approved Campus ChatGPT Edu workspace and only for authorized HR work. Public output must not reveal applicant names, contact details, or individual decline information.
+
+## Source priority
+
+When sources conflict, use the original case document, dataset, offer letter, handbook, or job posting as the evidence. Treat HW #1-HW #3 as analysis that must remain traceable to those original files.
